@@ -6,7 +6,7 @@
 
 My name is Hallvard, I am a front-end developer designing and developing UI for the web. I am currently studying at Noroff School of Technology and Digital Media.
 
-My Portfolio: https://hallvard.netlify.app/
+💻 My Portfolio: https://hallvard.netlify.app/
 
 - 🌱 I’m currently learning more about backend development and VueJS
 - 📫 How to reach me: hallvard.dev@gmail.com | https://www.linkedin.com/in/hallvard-benan-282937249/
