@@ -4,14 +4,13 @@
 
 ### Hi there 👋
 
-My name is Hallvard, I am a front-end developer designing and developing UI for the web. I am currently studying at Noroff School of Technology and Digital Media.
+My name is Hallvard, I am a front-end developer designing and developing UI for the web.
 
 💻 My Portfolio: https://hallvard.netlify.app/
 
 - 🌱 I’m currently learning more about backend development and VueJS
 - 📫 How to reach me: hallvard.dev@gmail.com | https://www.linkedin.com/in/hallvard-benan-282937249/
-- 📚 Studying Front-End Development at Noroff
-- 👨‍🎓 Bachelor's degree in cultural project management
+- 👨‍🎓 Vocational degree in Front End Development and Bachelor's degree in cultural project management
 
 ---
 
